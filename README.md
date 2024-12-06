@@ -3,7 +3,7 @@
 This repo contains program for implementing normalization function on numerical data using Spark.
 
 <h2>Dataset:</h2>
-
+<p>LINK: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption </p>
 <p>The data is presented in a single text file, with each line representing a unique record. Each record is meticulously structured using semicolons to separate nine informative attributes:</p>
 
 <p>Date: Captures the specific day the measurement was taken.</p>
