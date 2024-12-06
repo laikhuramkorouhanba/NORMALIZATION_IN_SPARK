@@ -13,5 +13,5 @@ This repo contains program for implementing normalization function on numerical 
 <p>global_reactive_power: Household's overall reactive power usage (kilowatts) averaged over a minute.</p>
 <p>voltage: Minute-averaged voltage (volts).</p>
 <p>global_intensity: Minute-averaged current intensity (amperes).</p>
-<p>Sub-metering Values:</p>
-sub_metering_1, sub_metering_2, sub_metering_3: Energy consumption readings (watt-hours) from specific appliances or areas within the household (details not provided).
+<p>Sub-metering Values:
+sub_metering_1, sub_metering_2, sub_metering_3: Energy consumption readings (watt-hours) from specific appliances or areas within the household (details not provided).</p>
